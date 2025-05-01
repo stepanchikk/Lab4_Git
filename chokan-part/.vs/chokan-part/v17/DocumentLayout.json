@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danilsand\\OneDrive\\Desktop\\Lab4_Git\\chokan-part\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6337E0D-08F5-480C-B015-0BE66E74EAD3}|chokan-part\\chokan-part.vcxproj|C:\\Users\\danilsand\\OneDrive\\Desktop\\Lab4_Git\\chokan-part\\chokan-part\\chokan-part.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6337E0D-08F5-480C-B015-0BE66E74EAD3}|chokan-part\\chokan-part.vcxproj|solutionrelative:chokan-part\\chokan-part.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chokan-part.cpp",
+              "DocumentMoniker": "C:\\Users\\danilsand\\OneDrive\\Desktop\\Lab4_Git\\chokan-part\\chokan-part\\chokan-part.cpp",
+              "RelativeDocumentMoniker": "chokan-part\\chokan-part.cpp",
+              "ToolTip": "C:\\Users\\danilsand\\OneDrive\\Desktop\\Lab4_Git\\chokan-part\\chokan-part\\chokan-part.cpp",
+              "RelativeToolTip": "chokan-part\\chokan-part.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T08:31:02.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
